@@ -1,0 +1,10 @@
+﻿1#A#0123#abc@gmail.com
+2#B#0123#abc@gmail.com
+3#C2#0123#abc@gmail.com
+4#D#0123#abc@gmail.com
+5#E#0123#abc@gmail.com
+6#F#0123#abc@gmail.com
+7#G#0123#abc@gmail.com
+8#H#0123#abc@gmail.com
+9#K#0123#abc@gmail.com
+10#I#0123#abc@gmail.com
